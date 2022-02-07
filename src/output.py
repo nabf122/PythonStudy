@@ -1,0 +1,1 @@
+print("output 공부하기")
